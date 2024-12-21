@@ -1,0 +1,9 @@
+{
+  "version": "1",
+  "name": "semantic-search",
+  "type": "collection",
+  "ignore": [
+    "node_modules",
+    ".git"
+  ]
+}
